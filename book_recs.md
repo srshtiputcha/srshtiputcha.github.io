@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Book Recommendations
-permalink: /book_recs/
+title: Book List
+permalink: /book_list/
 ---
 
 ### 📚 _“Books are a uniquely portable magic.”_ 📚
