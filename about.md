@@ -10,9 +10,7 @@ In my spare time, I volunteer as a Trustee for the [North Lancashire Counselling
 
 ### Elsewhere on the internet... 
 
-For those interested, I do have a [Google Scholar](https://scholar.google.com/citations?user=dWKb1jAAAAAJ&hl=en) profilẹ. 
+✉️ [Email](mailto:s.putcha1@lancaster.ac.uk) \
+🎓 [Academic website](https://lancs.ac.uk/~putchas) \ 
+🔍 [Google Scholar](https://scholar.google.com/citations?user=dWKb1jAAAAAJ&hl=en) 
 
-Otherwise, I'm best contacted via email. 
-
-**Email:** [s.putcha1@lancaster.ac.uk](mailto:s.putcha1@lancaster.ac.uk) \
-**Academic website:** [https://lancs.ac.uk/~putchas](https://lancs.ac.uk/~putchas)
