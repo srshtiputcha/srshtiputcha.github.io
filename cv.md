@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 A full CV and references are available upon request. 
 
-## Research interests:
+## Research interests
 * Markov chain Monte Carlo
 * Bayesian inference
 * Machine learning
@@ -22,7 +22,7 @@ arXiv preprint [[code]](https://github.com/sputcha1/sgmcmc_ssm_code)
 * MSc in Statistics (Research), London School of Economics and Political Science, Oct. 2016 - Sept. 2017
 * BSc in Mathematics and Economics, London School of Economics and Political Science, Oct. 2013 - July 2016
 
-## Relevant Experience
+## Relevant xperience
 * Research Resident, [Cervest](https://cervest.earth), London (U.K), July 2020 - Nov. 2020
 * Graduate Teaching Assistant, [Lancaster University](https://www.lancaster.ac.uk/maths/), Lancaster (U.K.), Oct. 2018 - Sept. 2020
 * Summer Research Intern, [STOR-i Centre for Doctoral Training](https://www.lancaster.ac.uk/stor-i/), Lancaster (U.K.), July 2015 - Sept. 2015
