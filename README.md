@@ -1,1 +1,1 @@
-
+Created new blog. 
