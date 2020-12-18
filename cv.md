@@ -28,6 +28,6 @@ arXiv preprint [[code]](https://github.com/sputcha1/sgmcmc_ssm_code)
 * Other skills: LaTeX, Microsoft Office
 
 ## Certifications
-* RSS Graduate Statistican (Jan. 2018 - present)
+* RSS Graduate Statistician (Jan. 2018 - present)
 * Mental Health First Aider (Oct. 2018 - present)
 
