@@ -11,4 +11,4 @@ Alongside my PhD, I sit on the [RSS Lancashire and East Cumbria](https://rss.org
 In my spare time, I volunteer as a Trustee for the [North Lancashire Counselling Service,](http://www.northlancscounselling.org.uk/) read extensively and participate occasionally in fitness-related activities. [Click here](https://github.com/sputcha1/book_recs) for a list of my current book favourites.
 
 ### Contact me
-Email: [s.putcha1@lancaster.ac.uk](mailto:s.putcha1@lancaster.ac.uk)
+**Email:** [s.putcha1@lancaster.ac.uk](mailto:s.putcha1@lancaster.ac.uk)
