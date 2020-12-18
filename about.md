@@ -10,4 +10,4 @@ In my spare time, I volunteer as a Trustee for the [North Lancashire Counselling
 
 ### Contact me
 **Email:** [s.putcha1@lancaster.ac.uk](mailto:s.putcha1@lancaster.ac.uk) \
-**Academic website:** https://lancs.ac.uk/~putchas
+**Academic website:** [https://lancs.ac.uk/~putchas](https://lancs.ac.uk/~putchas)
