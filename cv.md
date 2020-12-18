@@ -5,6 +5,11 @@ permalink: /cv/
 ---
 A full CV and references are available upon request. 
 
+## Research interests:
+* Markov chain Monte Carlo
+* Bayesian inference
+* Machine learning
+
 ## Publications
 
 **[Stochastic Gradient MCMC for Nonlinear State Space Models](https://arxiv.org/abs/1901.10568)** \
@@ -23,9 +28,9 @@ arXiv preprint [[code]](https://github.com/sputcha1/sgmcmc_ssm_code)
 * Summer Research Intern, [STOR-i Centre for Doctoral Training](https://www.lancaster.ac.uk/stor-i/), Lancaster (U.K.), July 2015 - Sept. 2015
 
 ## Skills
-* Coding: Python, R, C
-* Statistical software: Stata
-* Other skills: LaTeX, Microsoft Office
+* **Coding:** Python, R, C
+* **Statistical software:** Stata
+* **Other skills:** LaTeX, Microsoft Office
 
 ## Certifications
 * RSS Graduate Statistician (Jan. 2018 - present)
