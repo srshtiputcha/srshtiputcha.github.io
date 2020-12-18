@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Welcome
 ---
 
 Welcome to my personal website! I am a final year PhD student at the [STOR-i Centre for Doctoral Training.](https://www.lancaster.ac.uk/stor-i/) My project is supervised by [Dr. Chris Nemeth](https://www.lancaster.ac.uk/~nemeth/) (Lancaster) and [Professor Paul Fearnhead](https://maths.lancs.ac.uk/~fearnhea/) (Lancaster). My PhD seeks to develop new methodology for scalable Bayesian inference. 
