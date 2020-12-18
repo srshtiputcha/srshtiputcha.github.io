@@ -6,9 +6,11 @@ permalink: /cv/
 A full CV and references are available upon request. 
 
 ## Research interests
-* Markov chain Monte Carlo
-* Bayesian inference
+* Markov chain Monte Carlo algorithms
+* Bayesian methods
+* Scalable Monte Carlo 
 * Machine learning
+
 
 ## Publications
 
