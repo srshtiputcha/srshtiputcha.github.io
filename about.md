@@ -11,6 +11,6 @@ In my spare time, I volunteer as a Trustee for the [North Lancashire Counselling
 ### Elsewhere on the internet... 
 
 ✉️ [Email](mailto:s.putcha1@lancaster.ac.uk) \
-🎓 [Academic website](https://lancs.ac.uk/~putchas) \ 
-🔍 [Google Scholar](https://scholar.google.com/citations?user=dWKb1jAAAAAJ&hl=en) 
+🎓 [Academic website](https://lancs.ac.uk/~putchas) \
+🔍 [Google Scholar](https://scholar.google.com/citations?user=dWKb1jAAAAAJ&hl=en) \
 
