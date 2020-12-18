@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-My full CV and references are available upon request. 
+A full CV and references are available upon request. 
 
 ## Publications
 
