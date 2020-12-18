@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-A full CV and references are available upon request. 
+My full CV and references are available upon request. 
 
 ## Research interests
 * Markov chain Monte Carlo algorithms
