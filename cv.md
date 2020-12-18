@@ -3,11 +3,12 @@ layout: page
 title: CV
 permalink: /cv/
 ---
+My full CV and references are available upon request. 
 
 ## Publications
 
-**[Stochastic Gradient MCMC for Nonlinear State Space Models](https://arxiv.org/abs/1901.10568)**\
-_Christopher Aicher, Srshti Putcha, Christopher Nemeth, Paul Fearnhead, Emily B. Fox_ \
+**[Stochastic Gradient MCMC for Nonlinear State Space Models](https://arxiv.org/abs/1901.10568)** \
+_Christopher Aicher, Srshti Putcha, Christopher Nemeth, Paul Fearnhead, Emily B. Fox_ (2019) \
 arXiv preprint [[code]](https://github.com/sputcha1/sgmcmc_ssm_code)
 
 ## Education
@@ -30,4 +31,3 @@ arXiv preprint [[code]](https://github.com/sputcha1/sgmcmc_ssm_code)
 * RSS Graduate Statistican (Jan. 2018 - present)
 * Mental Health First Aider (Oct. 2018 - present)
 
-Full CV and references available upon request. 
