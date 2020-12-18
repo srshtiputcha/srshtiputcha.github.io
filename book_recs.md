@@ -1,22 +1,23 @@
 ---
 layout: page
-title: TBR List 
+title: Book Recommendations
 permalink: /book_recs/
 ---
 
-# 📚 “Books are a uniquely portable magic.” 📚
+### 📚 _“Books are a uniquely portable magic.”_ 📚
 
 Welcome to an (almost certainly) incomplete list of the books that I am reading. I used to read widely at school, but I found excuses not to do so as an undergraduate. This is largely just a way of keeping me accountable. 
 Full reviews can be found on instagram: [@fraction_of_fiction](https://www.instagram.com/a_fraction_of_fiction/)
 
-## 📗 Current Reads 
 
-|  Name | Author  | Date Started  |  Progress  |  Genre  | 
-|---|---|---|---|---|
-| [The Uninhabitable Earth](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth) | David Wallace-Wells | July 5, 2020 | 100% 🎉 | Non-fiction | 
-| [The Great Partition: The Making of India and Pakistan](https://www.goodreads.com/book/show/721931.The_Great_Partition?from_search=true&from_srp=true&qid=8dJmadxTom&rank=1)  | Yasmin Khan | August 20, 2020  | 100%  🎉 | Non-fiction |
-| [Queenie](https://www.goodreads.com/book/show/36586697-queenie)  | Candice Carty-Williams  | August 15, 2020  | 80%  | Fiction | 
-| [Untouchable](https://www.goodreads.com/book/show/162.Untouchable?ac=1&from_search=true&qid=STuvhpptC3&rank=1) | Mulk Raj Anand | November 16, 2020 | 15% | Fiction |
+## 🎉  Finished Reads 
+* [The Uninhabitable Earth](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth), David Wallace-Wells 
+* [The Great Partition: The Making of India and Pakistan](https://www.goodreads.com/book/show/721931.The_Great_Partition?from_search=true&from_srp=true&), Yasmin Khan 
+
+## 📗 Current Reads
+* [Queenie](https://www.goodreads.com/book/show/36586697-queenie), Candice Carty-Williams 
+* [Untouchable](https://www.goodreads.com/book/show/162.Untouchable?ac=1&from_search=true&qid=STuvhpptC3&rank=1), Mulk Raj Anand 
+
 
 ## 📘 Book Club Reads 
 
