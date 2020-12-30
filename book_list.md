@@ -7,7 +7,6 @@ permalink: /book_list/
 ### 📚 _“Books are a uniquely portable magic.”_ 📚
 
 Welcome to an (almost certainly) incomplete list of the books that I am reading. I used to read widely at school, but I found excuses not to do so as an undergraduate. This is largely just a way of keeping me accountable. 
-Full reviews can be found on instagram: [@fraction_of_fiction](https://www.instagram.com/a_fraction_of_fiction/)
 
 
 ## 🎉  Finished Reads 
