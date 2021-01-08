@@ -8,17 +8,11 @@ permalink: /book_list/
 
 Welcome to an (almost certainly) incomplete list of the books that I am reading. I used to read widely at school, but I found excuses not to do so as an undergraduate. This is largely just a way of keeping me accountable. 
 
+2021 book count: [1/50]
 
-## 🎉  Finished Reads 
-* [The Uninhabitable Earth](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth), David Wallace-Wells 
-* [The Great Partition: The Making of India and Pakistan](https://www.goodreads.com/book/show/721931.The_Great_Partition?from_search=true&from_srp=true&), Yasmin Khan 
-* [Queenie](https://www.goodreads.com/book/show/36586697-queenie), Candice Carty-Williams 
-
-
-## 📗 Current Reads* 
+## 📗 Current Reads
 * [Untouchable](https://www.goodreads.com/book/show/162.Untouchable?ac=1&from_search=true&qid=STuvhpptC3&rank=1), Mulk Raj Anand 
 * [Invisible Women](https://www.goodreads.com/book/show/41104077-invisible-women), Caroline Criado-Perez
-
 
 ## 📘 Book Club Reads 
 
@@ -30,6 +24,12 @@ Welcome to an (almost certainly) incomplete list of the books that I am reading.
 **Previous Reads:**
 * [Girl, Woman, Other](https://www.goodreads.com/book/show/41081373-girl-woman-other) by [Bernadine Evaristo](https://bevaristo.com/) 
 * [Lolita](https://www.goodreads.com/book/show/7604.Lolita) by [Vladimir Nabokov](https://en.wikipedia.org/wiki/Vladimir_Nabokov)
+
+
+## 🎉  2020 Finished Reads 
+* [The Uninhabitable Earth](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth), David Wallace-Wells 
+* [The Great Partition: The Making of India and Pakistan](https://www.goodreads.com/book/show/721931.The_Great_Partition?from_search=true&from_srp=true&), Yasmin Khan 
+* [Queenie](https://www.goodreads.com/book/show/36586697-queenie), Candice Carty-Williams 
 
 ## 📙 Personal TBR
 
